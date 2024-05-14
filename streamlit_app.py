@@ -41,5 +41,6 @@ st.header("Check 400 Cat from 88 Cat")
 opt_lv1 = df_opt['NEW SUBCATEGORY-L4 (88) - Sub Cate'].unique()
 options_lv1 = st.multiselect("What is Category 88", list(opt_lv1))
 opt_ = df_opt.loc[df_opt['NEW SUBCATEGORY-L4 (88) - Sub Cate'].isin(options_lv1), ['NEW SUBCATEGORY-L4 (88) - Sub Cate','NEW SUBCATEGORY-L5 (463)','REMARK']]
+opt_['REMARK'] = opt_['REMARK'].fillna('')
 st.table(opt_)
 # options_lv2 = st.multiselect("What is Product", opt_, [])
