@@ -6,7 +6,7 @@ from io import StringIO
 st.set_page_config(layout="wide")
 
 def load_original_data():
-    url = 'https://raw.githubusercontent.com/Harirak/test_streamlit/main/category_eda.csv?token=GHSAT0AAAAAACSH7IEFBSLIJH5SSIBFIKZ4ZSCXQYQ'
+    url = 'https://raw.githubusercontent.com/Harirak/test_streamlit/main/category_eda.csv'
     response = requests.get(url)
     if response.status_code == 200:
         return pd.read_csv(StringIO(response.text))
