@@ -39,6 +39,7 @@
 1. FROZEN & CHILLED FOOD,1.1 FROZEN & CHILLED SEAFOOD,1.1.4 Frozen and Chilled Fish,Frozen Inada / Hamachi / Buri Fish / Japanese Amberjack Fish,"แอมเบอร์แจ็คญี่ปุ่น Japanese Amberjack / ปลาฮามาจิ, ปลาบุรี I Yellow Tail I Japanese",1.1.4.4,
 1. FROZEN & CHILLED FOOD,1.1 FROZEN & CHILLED SEAFOOD,1.1.4 Frozen and Chilled Fish,Frozen Butter Fish,Ebodai  ปลาเอโบไดหรือปลาอิโบได (イボダイ) I Indonesia,1.1.4.5,
 1. FROZEN & CHILLED FOOD,1.1 FROZEN & CHILLED SEAFOOD,1.1.4 Frozen and Chilled Fish,Frozen Cod Fish,"ปลาค็อด  I Alaska, Norwegian",1.1.4.6,
+1. FROZEN & CHILLED FOOD,1.1 FROZEN & CHILLED SEAFOOD,1.1.4 Frozen and Chilled Fish,Frozen Cat Fish,ปลาดุก,,N
 1. FROZEN & CHILLED FOOD,1.1 FROZEN & CHILLED SEAFOOD,1.1.4 Frozen and Chilled Fish,Frozen Eel Fish,ปลาไหล,1.1.4.7,
 1. FROZEN & CHILLED FOOD,1.1 FROZEN & CHILLED SEAFOOD,1.1.4 Frozen and Chilled Fish,Frozen Flounder / Halibut Fish,Flounder ปลาลิ้นหมา (Halibut ปลาแฮลิบัต) I Alaska,1.1.4.8,
 1. FROZEN & CHILLED FOOD,1.1 FROZEN & CHILLED SEAFOOD,1.1.4 Frozen and Chilled Fish,Frozen Herring Fish,ปลาเฮร์ริง,1.1.4.9,
@@ -115,10 +116,9 @@
 1. FROZEN & CHILLED FOOD,1.2 FROZEN & CHILLED MEAT,1.2.3 Frozen and Chilled Lamb,Frozen New Zealand Lamb Shoulder,,1.2.3.7,
 1. FROZEN & CHILLED FOOD,1.2 FROZEN & CHILLED MEAT,1.2.3 Frozen and Chilled Lamb,Frozen New Zealand Lamb Loin,,1.2.3.8,
 1. FROZEN & CHILLED FOOD,1.2 FROZEN & CHILLED MEAT,1.2.4 Frozen and Chilled Game Meat and Other,Frozen Crocodile,จระเข้,1.2.4.1,
-1. FROZEN & CHILLED FOOD,1.2 FROZEN & CHILLED MEAT,1.2.4 Frozen and Chilled Game Meat and Other,Frozen Turtle,ตะพาบ,,N
-1. FROZEN & CHILLED FOOD,1.2 FROZEN & CHILLED MEAT,1.2.4 Frozen and Chilled Game Meat and Other,Frozen Rat,หนู,1.2.4.2,
+1. FROZEN & CHILLED FOOD,1.2 FROZEN & CHILLED MEAT,1.2.4 Frozen and Chilled Game Meat and Other,Frozen หนู,หนู,1.2.4.2,
 1. FROZEN & CHILLED FOOD,1.2 FROZEN & CHILLED MEAT,1.2.4 Frozen and Chilled Game Meat and Other,Frozen Snake,งู,1.2.4.3,
-1. FROZEN & CHILLED FOOD,1.2 FROZEN & CHILLED MEAT,1.2.4 Frozen and Chilled Game Meat and Other,Frozen Frog / Toad,"กบ, อึ่งอ่าง",1.2.4.4,
+1. FROZEN & CHILLED FOOD,1.2 FROZEN & CHILLED MEAT,1.2.4 Frozen and Chilled Game Meat and Other,Frozen Frog,กบ,1.2.4.4,
 1. FROZEN & CHILLED FOOD,1.2 FROZEN & CHILLED MEAT,1.2.4 Frozen and Chilled Game Meat and Other,Frozen Grasshopper,ตั๊กแตน,1.2.4.5,
 1. FROZEN & CHILLED FOOD,1.2 FROZEN & CHILLED MEAT,1.2.4 Frozen and Chilled Game Meat and Other,Frozen Silkworm,หนอนไหม,1.2.4.6,
 1. FROZEN & CHILLED FOOD,1.2 FROZEN & CHILLED MEAT,1.2.4 Frozen and Chilled Game Meat and Other,Frozen Venison,กวาง เก้ง,1.2.4.7,
@@ -164,12 +164,11 @@
 1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Black Current,,1.5.1.22,
 1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Blackberry,,1.5.1.23,
 1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Blueberry,,1.5.1.24,
-1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Durian,,,N
-1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Coconut,,,N
+1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Durian,ทุเรียน,,N
+1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Coconut,มะพร้าว,,N
 1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Longan,ลำไย,,N
 1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Rose Apple,ชมพู่,,N
-1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Pomelo,ส้มโอ,,N
-1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Cherry,,1.5.1.25,
+1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Cherry,เชอร์รี่,1.5.1.25,
 1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Fava Bean,,1.5.1.26,
 1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Frozen Green Apple ,,1.5.1.27,
 1. FROZEN & CHILLED FOOD,1.5 FROZEN & CHILLED FRUIT & VEGETABLE,1.5.1 Frozen and Chilled Fruit and Vegetable,Frozen Imported Green Peas,,1.5.1.28,
