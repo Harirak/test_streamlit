@@ -6,6 +6,7 @@ from io import StringIO
 
 st.set_page_config(layout="wide")
 
+
 def load_original_data():
     url = 'https://raw.githubusercontent.com/Harirak/test_streamlit/main/category_eda.csv'
     response = requests.get(url)
@@ -17,6 +18,9 @@ def load_original_data():
 df_opt = load_original_data()
 df_opt['NEW SUBCATEGORY-L5 (463)'] = df_opt['NEW SUBCATEGORY-L5 (463)'].str.strip()
 
+if st.button('Refresh Data'):
+    df_opt = load_original_data()
+    df_opt['NEW SUBCATEGORY-L5 (463)'] = df_opt['NEW SUBCATEGORY-L5 (463)'].str.strip()
 
 
 ############
