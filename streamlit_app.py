@@ -11,7 +11,7 @@ st.set_page_config(layout="wide")
 # session.close()
 
 # opt = pd.DataFrame(result)
-df_opt = pd.read_excel("D:\\Users\\harirak.i\\OneDrive - ASSET WORLD CORP PUBLIC CO.,LTD\\EDA\\005. CWS\\002. AFP Seller list\\012. Cat 460\\category_eda.xlsx")
+df_opt = pd.read_excel("category_eda.xlsx")
 
 
 opt_lv1 = df_opt['NEW SUBCATEGORY-L4 (88) - Sub Cate'].unique()
