@@ -6,7 +6,7 @@ from io import StringIO
 
 st.set_page_config(layout="wide")
 
-
+@st.cache_data(ttl=600)
 def load_original_data():
     url = 'https://raw.githubusercontent.com/Harirak/test_streamlit/main/category_eda.csv'
     response = requests.get(url)
