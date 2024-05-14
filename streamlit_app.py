@@ -28,5 +28,5 @@ st.write("You selected:", options_lv2)
 st.divider()
 st.header("Search Remark")
 
-st.text_input("Remark: ", key='remark', on_change= assign_remark)
+st.text_input("Remark: ", key='remark')
 st.table(df_opt.loc[df_opt['REMARK'].fillna('').str.contains(st.session_state.remark),['NEW SUBCATEGORY-L4 (88) - Sub Cate','NEW SUBCATEGORY-L5 (463)','REMARK']] if st.session_state.remark else None)
